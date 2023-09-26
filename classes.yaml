@@ -1,0 +1,11 @@
+# Dataset paths relative to the yolov5 folder
+path:  ../data/images
+train: train
+val:   val
+test:  test
+
+# Number of classes
+nc: 37
+
+# Class names 0 - pause, 1 - search, ...
+names: ['dog', 'person', 'cat', 'tv', 'car', 'meatballs', 'marinara sauce', 'tomato soup', 'chicken noodle soup', 'french onion soup', 'chicken breast', 'ribs', 'pulled pork', 'hamburger', 'cavity', 'pause', 'search', 'settings', 'fullscreen', 'play', 'like', 'share', 'comment', 'close', 'back', 'send', 'home', 'love', 'sending', 'skipad', 'dislike', 'subscribe', 'previous', 'next', 'autoplay', 'nextting', 'sharing']
